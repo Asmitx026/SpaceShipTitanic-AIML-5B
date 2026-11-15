@@ -3,6 +3,14 @@ A college coursework Machine Learning project that demonstrates the usage of var
 
 The analysis and experiments are documented in [`spaceship_titanic.ipynb`](spaceship_titanic.ipynb) notebook file.
 
+## Project Collaborators
+
+This project is a group work prepared by 4 members:
+- [Asmit Das Choudhury](https://github.com/Asmitx026)
+- [Shuvradeep Patra](https://github.com/ShuvradeepPatra)
+- [Barsha Saha](https://github.com/lilo006)
+- [Sk Masudur Afridi](https://github.com/sk-afridi)
+
 ## Learning Outcomes
 
 This project is divided into the following steps:
